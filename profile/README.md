@@ -13,9 +13,9 @@ Are you overwhelmed with assignments and seeking a reliable solution? Look no fu
 
 ## 🌟 What We Offer
 
-- **Assignment Excellence:** Our team of skilled professionals specializes in a wide range of subjects and technical fields. From research and writing to programming and more, we offer top-notch support to ensure your assignments are completed with excellence.
+- **Assignment Excellence:** Our team specializes in a wide range of subjects and technical fields. From research and writing to programming and more, we offer top-notch support to ensure your assignments are completed with excellence.
 
-- **Time Optimization:** We understand that time is precious. By entrusting us with your assignments, you can reclaim valuable hours and dedicate them to other academic pursuits, personal development, or simply relaxing and recharging.
+- **Time Optimization:** We understand that time is precious. By entrusting us with your assignments, you can reclaim valuable hours and dedicate them to other personal development, or simply relaxing and recharging.
 
 - **Tailored Solutions:** We believe in delivering personalized solutions that align with your specific requirements. Every assignment we handle is crafted to meet your academic guidelines, ensuring that you receive the best possible results.
 
@@ -29,4 +29,8 @@ Here's how you can get involved with The Binaries:
 
 3. **Spread the Word:** Help us reach more students in need! If you know someone who could benefit from our services, share the news about The Binaries. By spreading the word, you're helping students unlock their full potential and achieve academic success.
 
-Thank you for considering The Binaries / The Binary Nexus Company for your academic needs. We're excited to embark on this journey with you and help you achieve your goals. If you have any questions or require assistance, don't hesitate to reach out. Together, let's unlock your academic potential! 🚀
+Thank you for considering The Binaries / The Binary Nexus Company for your academic needs. We're excited to embark on this journey with you and help you achieve your goals. If you have any questions or require assistance, don't hesitate to reach out. 🚀
+<div align='center'>Connect Us via:</div>
+<div align='center'>
+  <a href="https://www.facebook.com/profile.php?id=100093881001044">The Binary Nexus Co. Ltd</a>
+  </div>
