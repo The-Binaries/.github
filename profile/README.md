@@ -9,7 +9,7 @@
 
 ## Empowering Students through Academic Support and Time Optimization
 
-Are you overwhelmed with assignments and seeking a reliable solution? Look no further! At The Binaries, we are dedicated to helping students like you excel in your academic journey. Our mission is to provide comprehensive assistance and save you valuable time, allowing you to focus on what matters most.
+Are you overwhelmed with assignments and seeking a reliable solution? Look no further! At The Binaries, we are dedicated to helping students like you in your academic journey. Our mission is to provide comprehensive assistance and save you valuable time, allowing you to focus on what matters most.
 
 ## 🌟 What We Offer
 
