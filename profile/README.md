@@ -2,7 +2,7 @@
 
 # Welcome to The Binaries / The Binary Nexus Company! 🎉
 
-<p align="center">
+<p align="center" border-radius="50%" >
   <img src="https://github.com/The-Binaries/.github/assets/115852972/7ce1830e-6a74-4d79-9da3-ac5cb99e722c" alt="The Binaries Logo" width="200" height="200" >
 </p>
 
