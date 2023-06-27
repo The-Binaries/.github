@@ -29,7 +29,7 @@ Here's how you can get involved with The Binaries:
 
 3. **Spread the Word:** Help us reach more students in need! If you know someone who could benefit from our services, share the news about The Binaries. By spreading the word, you're helping students unlock their full potential and achieve academic success.
 
-Thank you for considering The Binaries / The Binary Nexus Company for your academic needs. We're excited to embark on this journey with you and help you achieve your goals. If you have any questions or require assistance, don't hesitate to reach out. 🚀
+Thank you for considering us for your academic needs. We're excited to embark on this journey with you and help you achieve your goals. If you have any questions or require assistance, don't hesitate to reach out. 🚀
 <div align='center'>Connect Us via:</div>
 <div align='center'>
   <a href="https://www.facebook.com/profile.php?id=100093881001044">The Binary Nexus Co. Ltd</a>
