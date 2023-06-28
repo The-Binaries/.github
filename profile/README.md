@@ -1,11 +1,7 @@
-![nexus](https://github.com/The-Binaries/.github/assets/115852972/6fb3a991-cd9f-4518-bd44-d28cdf5f7dca)
-
 # Welcome to The Binaries / The Binary Nexus Company! 🎉
 
-<p align="center" border-radius="50%" >
-  <img src="https://github.com/The-Binaries/.github/assets/115852972/7ce1830e-6a74-4d79-9da3-ac5cb99e722c" alt="The Binaries Logo" width="200" height="200" >
-</p>
 
+![nexus](https://github.com/The-Binaries/.github/assets/115852972/6fb3a991-cd9f-4518-bd44-d28cdf5f7dca)
 
 ## Empowering Students through Academic Support and Time Optimization
 
